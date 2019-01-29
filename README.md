@@ -42,11 +42,20 @@ On your browser you are going to see a window like this:
 
 ### Run Lab 2 Warm Up Activity
 
-Click on the Lab2 directory and then to the warmup.ipynb notebook.
+Click on the Lab2 directory 
 <p align="center">
 <img src="img/lab2.png" width="350" title="lab 2" />
+</p>
+
+and then to the warmup.ipynb notebook.
+
+<p align="center">
 <img src="img/warmup.png" width="350" title="warmup" />
 </p>
 
+
+
 Now you can edit the warmup acticity notebook!
+
+
 
