@@ -1,6 +1,8 @@
 PHYS 132 repository
 ================
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexzucca90/PHYS132/master)
+
 This is the repo for the PHYS 132 lab. 
 
 ## Table of contents
