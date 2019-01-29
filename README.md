@@ -42,12 +42,12 @@ On your browser you are going to see a window like this:
 
 ### Run Lab 2 Warm Up Activity
 
-Click on the Lab2 directory 
+Click on the [Lab2](/Lab2/) directory 
 <p align="center">
 <img src="img/lab2.png" width="350" title="lab 2" />
 </p>
 
-and then to the warmup.ipynb notebook.
+and then click on the [warmup.ipynb](/Lab2/warmup.ipynb) notebook as below:
 
 <p align="center">
 <img src="img/warmup.png" width="350" title="warmup" />
