@@ -83,7 +83,7 @@ THIS IS STILL WORK IN PROGRESS
 
 ### 4.2. Lab 2: 1D Kinematics.
 
-### 4.3. Lab 3: Fan carts
+### 4.3. Lab 3: Fan carts.
 
 
 
