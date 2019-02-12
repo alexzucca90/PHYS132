@@ -11,6 +11,7 @@ This is the repo for the PHYS 132 lab.
 * [3. Instructions for Students with Python](#3-instructions-for-students-with-python)
     * [3.1. Windows Users](#3-1-windows-users)
     * [3.2. Mac Users](#3-1-mac-users)
+    * [3.3. Run Lab 2 Warm Up Activity](#3-3-run-lab-2-warm-up-activity)
 
 ## 1. Introduction
 This is an experiment for the PHYS 132 lab at Simon Fraser University. 
@@ -56,7 +57,9 @@ You are going to be redirected to your browser on the following page
 <img src="img/jupyter_lab_home.png" width="1000" title="jupyter lab home" />
 </p>
 
-### Run Lab 2 Warm Up Activity
+Now you can run the notebooks. See next section for an Examples
+
+#### 3.3. Run Lab 2 Warm Up Activity
 
 Click on the [Lab2](/Lab2/) directory 
 <p align="center">
@@ -69,9 +72,24 @@ and then click on the [warmup.ipynb](/Lab2/warmup.ipynb) notebook as below:
 <img src="img/warmup.png" width="350" title="warmup" />
 </p>
 
-
-
 Now you can edit the warmup acticity notebook!
+
+## 4. Labs
+
+### 4.1. Lab 1: Density.
+
+### 4.2. Lab 2: 1D Kinematics.
+
+### 4.3. Lab 3: Fan carts
+
+
+
+Repo created and maitained by [Alex Zucca](https://github.com/alexzucca90).
+
+<p align="left">
+<a href="http://www.sfu.ca/physics.html"><img src="https://pbs.twimg.com/profile_images/966810928669802496/LVqOwtsx_400x400.jpg" height="170px"></a>
+</p>
+
 
 
 
