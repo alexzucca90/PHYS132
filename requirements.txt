@@ -1,6 +1,6 @@
 seaborn
 matplotlib==2.0.2
-numpy==1.13.1
+numpy==1.22.0
 pandas==0.20.3
 scipy
 scikit-learn==0.20.2
